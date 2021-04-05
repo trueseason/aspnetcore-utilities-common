@@ -6,6 +6,9 @@
         <description>AspNetCore.Utilities.Common</description>
         <authors>Singtone Contributors</authors>
 		<language>en-US</language>
+		<license type="expression">MIT</license>
+		<repository type="git" url="https://github.com/trueseason/aspnetcore-utilities-common.git" />
+		<description>A collection of some common useful helper functions, extensions and packages for ASP.NET Core coding.</description>
 		<dependencies>
 			<group targetFramework="netcoreapp3.1">
 			</group>
