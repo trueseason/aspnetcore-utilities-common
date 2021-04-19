@@ -6,5 +6,5 @@ resources:
       type: git
       name: "Utilities/PipelineTemplates"
 
-stages:
+extends:
 - template: Azure/NetCoreNuGetLibrary.yml@BuildPipelines
