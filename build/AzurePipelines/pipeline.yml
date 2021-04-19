@@ -7,4 +7,4 @@ resources:
       name: "Utilities/PipelineTemplates"
 
 extends:
-- template: Azure/NetCoreNuGetLibrary.yml@BuildPipelines
+  template: Azure/NetCoreNuGetLibrary.yml@BuildPipelines
